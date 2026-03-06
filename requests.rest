@@ -1,0 +1,11 @@
+### Get all contacts
+GET http://localhost:8080/contacts
+
+### Get single contact by ID
+GET http://localhost:8080/contacts/69aa5f569ef8d3311f0852b1
+
+### Get all contacts (production)
+GET https://cse341-contacts-318h.onrender.com
+
+### Get single contact by ID (production)
+GET https://cse341-contacts-318h.onrender.com/contacts/69aa5f569ef8d3311f0852b1
