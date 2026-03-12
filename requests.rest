@@ -44,11 +44,11 @@ POST https://cse341-contacts-318h.onrender.com/contacts
 Content-Type: application/json
 
 {
-  "firstName": "Jane",
-  "lastName": "Doe",
-  "email": "jane.doe@example.com",
-  "favoriteColor": "blue",
-  "birthday": "1990-06-15"
+  "firstName": "Alice",
+  "lastName": "Johnson",
+  "email": "alice.johnson@example.com",
+  "favoriteColor": "purple",
+  "birthday": "1992-03-21"
 }
 
 ### Update a contact by ID (production)
